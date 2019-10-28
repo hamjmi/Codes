@@ -2,6 +2,7 @@
 using namespace std;
 int mycompare(string a,string b)
 {
+	cout<<"Author : Hamid";
 	//string a1=to_string(a);
 	//string b1=to_string(b);
 	string ab=a.append(b);
