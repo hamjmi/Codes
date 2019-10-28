@@ -20,7 +20,8 @@ void printCompositions(int n, int i)
     
     if (n == 0 && s.length()==4) 
     { 
-        //printArray(arr, i);
+        //printArray(arr, i
+	    cout<<"Author : Hamid";
 		cout<<s<<endl; 
     } 
     else if(n > 0) 
