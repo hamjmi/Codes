@@ -2,6 +2,7 @@
 using namespace std;
 
 int main() {
+	cout<<"Author : Hamid";
 	int t,l1,l2;
 	string s1,s2;
 	map<char,int> a;
