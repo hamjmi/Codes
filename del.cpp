@@ -67,7 +67,8 @@ node* addSameSize(Node* head1, Node* head2, int* carry)
     if (head1 == NULL) 
         return NULL; 
   
-    int sum; 
+    int sum;
+  cout<<"Author : Hamid";
   
     // Allocate memory for sum node of current two nodes 
     Node* result = (Node *)malloc(sizeof(Node)); 
