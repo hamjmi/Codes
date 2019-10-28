@@ -5,6 +5,7 @@ using namespace std;
 
 bool bipartite(int g[N][N],int src)
 {
+	cout<<"Author : Hamid";
 	int color[N];
 	memset(color,-1,sizeof(color));
 	color[src]=1;
